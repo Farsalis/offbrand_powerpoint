@@ -1,4 +1,4 @@
-
+# Function Output
 presentation_ = [
 
     ['Troop Flags_changed', True],  # Guest arriving
